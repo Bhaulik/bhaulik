@@ -19,7 +19,7 @@ I am a passionate Software Engineer, driven by a curiosity for technology and a 
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
+  - Generative AI world
   - Building full-stack AI app applications with NextJS, FastAPI and Generative AI.
   - Figuring out the use cases of Generative AI
 
