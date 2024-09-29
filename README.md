@@ -7,7 +7,6 @@ I am a passionate Software Engineer, driven by a curiosity for technology and a 
 ## 🚀 About Me
 
 - 🤓 Software Developer with > 5 years of experience building enterprise and high scale systems in various industries.
-- 📝 I write in-depth, long-form articles on my website [bhaulik.com](https://bhaulik.com).
 - 🧑‍💻 Top LinkedIn voice for Software Development in 2024.
 
 ## My Articles
