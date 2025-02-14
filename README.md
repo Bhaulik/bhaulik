@@ -8,9 +8,7 @@ I am a passionate Software Engineer, driven by a curiosity for technology and a 
 
 - 🤓 Software Developer with > 5 years of experience building enterprise and high scale systems in various industries.
 - 🧑‍💻 Top LinkedIn voice for Software Development in 2024.
-
-## My Articles
-- [Tips for New Devs]([https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/](https://qr.ae/psbkZy))
+  
 
 ## 🌱 Currently Exploring
 
