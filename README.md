@@ -12,10 +12,6 @@ I am a passionate Software Engineer, driven by a curiosity for technology and a 
 ## My Articles
 - [Tips for New Devs]([https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/](https://qr.ae/psbkZy))
 
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,c#,dotnet,postgres,visualstudio,tailwind,azure,fastapi,supabase)](https://skillicons.dev)
-
 ## 🌱 Currently Exploring
 
   - Generative AI world
@@ -24,7 +20,7 @@ I am a passionate Software Engineer, driven by a curiosity for technology and a 
 
  ## 🏆 Achievements
 
-- 🌟 Top LinkedIn voice in Software Development, Programming and Algorithms in 2023 
+- 🌟 Top LinkedIn voice in Software Development, Programming and Algorithms in 2023, 2024 
 
 ## 📬 Get in Touch
 
