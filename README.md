@@ -1,6 +1,6 @@
 # Hi, I'm Bhaulik Patel! 👋
 
-I build software because i’m curious, I like making things work, and I enjoy sharing what I find with others. Always learning, always tinkering.
+always learning, always tinkering.
 
 ![<bhaulik>'s Stats](https://github-readme-stats.vercel.app/api?username=bhaulik&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
