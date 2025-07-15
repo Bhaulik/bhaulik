@@ -1,6 +1,6 @@
 # Hi, I'm Bhaulik Patel! 👋
 
-I am a passionate Software Engineer, driven by a curiosity for technology and a love for building products. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I build software because i’m curious, I like making things work, and I enjoy sharing what I find with others. Always learning, always tinkering.
 
 ![<bhaulik>'s Stats](https://github-readme-stats.vercel.app/api?username=bhaulik&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -12,9 +12,7 @@ I am a passionate Software Engineer, driven by a curiosity for technology and a 
 
 ## 🌱 Currently Exploring
 
-  - Generative AI world
-  - Building full-stack AI app applications with NextJS, FastAPI and Generative AI.
-  - Figuring out the use cases of Generative AI
+  - AI Engineering, Large Language Models, Forward Deployed Engineering, Full-stack development
 
  ## 🏆 Achievements
 
@@ -24,4 +22,4 @@ I am a passionate Software Engineer, driven by a curiosity for technology and a 
 
 - email: bhaulikpatel966@gmail.com
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Thanks for stopping by!
