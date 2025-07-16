@@ -18,8 +18,5 @@ always learning, always tinkering.
 
 - 🌟 Top LinkedIn voice in Software Development, Programming and Algorithms in 2023, 2024 
 
-## 📬 Get in Touch
-
-- email: bhaulikpatel966@gmail.com
 
 Thanks for stopping by!
