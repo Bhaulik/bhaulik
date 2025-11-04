@@ -1,6 +1,6 @@
 # Hi, I'm Bhaulik Patel! 👋
 
-always learning, always tinkering.
+Forward Deployed Engineer
 
 ## 🚀 About Me
 
